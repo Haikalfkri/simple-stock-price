@@ -1,3 +1,3 @@
 # Simple Stock Price using Streamlit
 
-`streamlit run main.py`
+Run streamlit : `streamlit run main.py`
